@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "created the backend for a basic flashcard aplication",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenurena/Flashcard-Generator.git"
+  },
+  "author": "Stephen Urena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenurena/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/stephenurena/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
