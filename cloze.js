@@ -1,3 +1,5 @@
+/*cloze card constructor that passes in full text(text) 
+and cloze, contains method to remove cloze from full text*/
 var ClozeCard = function(text, cloze){
     this.text = text;
     this.cloze = cloze;
