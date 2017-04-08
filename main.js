@@ -82,7 +82,7 @@ var prompt = {
 }
 //-----------------------end of prompt object----------------------------------
 
-//======================Initial StartUp of CLI=================================
+//======================object to run methods of our flashcard app===================
 var cli = {
         //Initial user prompt to initilize app, to either study cards or create new ones
         startUp: function() {
